@@ -1,22 +1,16 @@
-# X_Login
+# X_Login（開発終了）
 
-Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラスです。
+類似プロジェクト↓
+### ※開発中※
+---
 
-## 特徴
-- Playwrightによるブラウザ自動操作
-- Cookie保存・再利用によるセッション管理
-- 人間らしいタイピング・遅延の再現
-- ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減
+- Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。
+- ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減されます。
+- XのHTMLの仕様が変わればもちろん使えなくなります。
+---
 
-## 必要要件
-- Python 3.8以上
-- [playwright](https://playwright.dev/python/) ライブラリ
+※2025/06/18現在動作確認済み※
 
-## インストール
-```bash
-pip install playwright
-playwright install
-```
 
 ## 使い方
 ```python
@@ -24,7 +18,7 @@ from x_login import X_Login
 from playwright.sync_api import sync_playwright
 
 email = "your_email@example.com"
-username = "your_username" #ログイン時に求められた場合のみ
+username = "your_username"
 password = "your_password"
 
 with sync_playwright() as p:
@@ -36,11 +30,6 @@ with sync_playwright() as p:
     # ここでログイン後の操作が可能
     browser.close()
 ```
-
-## 注意事項
-- このクラスの利用は自己責任でお願いします。
-- 開発者は一切の責任も負いません。
-- X（旧Twitter）の仕様変更により動作しなくなる場合があります。
 
 ## ライセンス
 MIT License

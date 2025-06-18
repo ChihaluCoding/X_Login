@@ -1,0 +1,238 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 55,
+            "patches": [
+                {
+                    "date": 1749954013813,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1750233148667,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n \r\n+\r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n - 人間らしいタイピング・遅延の再現\r\n"
+                },
+                {
+                    "date": 1750233156241,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n+えつらん\r\n \r\n-\r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n - 人間らしいタイピング・遅延の再現\r\n"
+                },
+                {
+                    "date": 1750233161570,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-えつらん\r\n+閲覧制限\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233174024,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,7 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-閲覧制限\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n@@ -37,11 +36,6 @@\n     # ここでログイン後の操作が可能\r\n     browser.close()\r\n ```\r\n \r\n-## 注意事項\r\n-- このクラスの利用は自己責任でお願いします。\r\n-- 開発者は一切の責任も負いません。\r\n-- X（旧Twitter）の仕様変更により動作しなくなる場合があります。\r\n-\r\n ## ライセンス\r\n MIT License\r\n"
+                },
+                {
+                    "date": 1750233185840,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,10 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n+凍結されても責任取りません\r\n \r\n+\r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n - 人間らしいタイピング・遅延の再現\r\n"
+                },
+                {
+                    "date": 1750233207013,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-凍結されても責任取りません\r\n+凍結されても責任取りません。\r\n \r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n"
+                },
+                {
+                    "date": 1750233215813,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-凍結されても責任取りません。\r\n+アカウントが凍結されても責任取りません\r\n \r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n"
+                },
+                {
+                    "date": 1750233222386,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-アカウントが凍結されても責任取りません\r\n+アカウントが凍結されても責任取りません。\r\n \r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n"
+                },
+                {
+                    "date": 1750233251226,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,7 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-アカウントが凍結されても責任取りません。\r\n \r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n"
+                },
+                {
+                    "date": 1750233287185,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n+と\r\n \r\n-\r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n - 人間らしいタイピング・遅延の再現\r\n"
+                },
+                {
+                    "date": 1750233301354,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-と\r\n+アカウントが凍結しても\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233313780,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-アカウントが凍結しても\r\n+アカウントが凍結しても責任は取りません\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233329013,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-アカウントが凍結しても責任は取りません\r\n+使用は\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233344095,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-使用は\r\n+使用は自己責任で\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n@@ -12,13 +12,8 @@\n ## 必要要件\r\n - Python 3.8以上\r\n - [playwright](https://playwright.dev/python/) ライブラリ\r\n \r\n-## インストール\r\n-```bash\r\n-pip install playwright\r\n-playwright install\r\n-```\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233359674,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,20 +1,15 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-使用は自己責任で\r\n+使用は自己責任でどうぞ。\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n - 人間らしいタイピング・遅延の再現\r\n - ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減\r\n \r\n-## 必要要件\r\n-- Python 3.8以上\r\n-- [playwright](https://playwright.dev/python/) ライブラリ\r\n-\r\n-\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233365539,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-使用は自己責任でどうぞ。\r\n+このクラスの使用は自己責任でどうぞ。\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233370840,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-このクラスの使用は自己責任でどうぞ。\r\n+クラスの使用は自己責任でどうぞ。\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233380120,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-クラスの使用は自己責任でどうぞ。\r\n+クラスの使用は自己責任でお願いします。\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233388099,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-クラスの使用は自己責任でお願いします。\r\n+クラスの使用は自己責任でお願いします。凍結されても知りません。\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233395785,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-クラスの使用は自己責任でお願いします。凍結されても知りません。\r\n+クラスの使用は自己責任でお願いします。\r\n \r\n ## 特徴\r\n - Playwrightによるブラウザ自動操作\r\n - Cookie保存・再利用によるセッション管理\r\n"
+                },
+                {
+                    "date": 1750233414539,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,15 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-クラスの使用は自己責任でお願いします。\r\n+ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減\r\n \r\n-## 特徴\r\n-- Playwrightによるブラウザ自動操作\r\n-- Cookie保存・再利用によるセッション管理\r\n-- 人間らしいタイピング・遅延の再現\r\n-- ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減\r\n-\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233420172,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,26 @@\n+# X_Login\r\n+\r\n+Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n+ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減ｓ\r\n+\r\n+## 使い方\r\n+```python\r\n+from x_login import X_Login\r\n+from playwright.sync_api import sync_playwright\r\n+\r\n+email = \"your_email@example.com\"\r\n+username = \"your_username\" #ログイン時に求められた場合のみ\r\n+password = \"your_password\"\r\n+\r\n+with sync_playwright() as p:\r\n+    browser = p.chromium.launch(headless=False)\r\n+    context = browser.new_context()\r\n+    page = context.new_page()\r\n+    x = X_Login(email, username, password)\r\n+    x.login(context, page)\r\n+    # ここでログイン後の操作が可能\r\n+    browser.close()\r\n+```\r\n+\r\n+## ライセンス\r\n+MIT License\r\n"
+                },
+                {
+                    "date": 1750233434557,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減ｓ\r\n+ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n@@ -23,30 +23,4 @@\n ```\r\n \r\n ## ライセンス\r\n MIT License\r\n-# X_Login\r\n-\r\n-Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減\r\n-\r\n-## 使い方\r\n-```python\r\n-from x_login import X_Login\r\n-from playwright.sync_api import sync_playwright\r\n-\r\n-email = \"your_email@example.com\"\r\n-username = \"your_username\" #ログイン時に求められた場合のみ\r\n-password = \"your_password\"\r\n-\r\n-with sync_playwright() as p:\r\n-    browser = p.chromium.launch(headless=False)\r\n-    context = browser.new_context()\r\n-    page = context.new_page()\r\n-    x = X_Login(email, username, password)\r\n-    x.login(context, page)\r\n-    # ここでログイン後の操作が可能\r\n-    browser.close()\r\n-```\r\n-\r\n-## ライセンス\r\n-MIT License\r\n"
+                },
+                {
+                    "date": 1750233450876,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,8 +2,10 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n+\r\n+\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233456676,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,10 +2,10 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n+あくまでも\r\n \r\n-\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233466023,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n-あくまでも\r\n+あくまでも過剰なログイン\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233478182,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n-あくまでも過剰なログイン\r\n+あくまでもリスクを減らすため\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233484747,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n-あくまでもリスクを減らすため\r\n+あくまでもリスクを減らすため、\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233490900,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n-あくまでもリスクを減らすため、\r\n+あくまでもリスクを減\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233499779,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n \r\n-あくまでもリスクを減\r\n+あくまでもリスクを減らすために作ったものです。\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233508043,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,11 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減します。\r\n+ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、\r\n \r\n-あくまでもリスクを減らすために作ったものです。\r\n-\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233513643,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、\r\n+ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、100%\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233532587,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、100%\r\n+ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任で\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233538005,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任で\r\n+ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233548109,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n-ログイン状態の維持が出来るため、アカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n+ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233563458,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,9 +8,9 @@\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n \r\n email = \"your_email@example.com\"\r\n-username = \"your_username\" #ログイン時に求められた場合のみ\r\n+username = \"your_username\"\r\n password = \"your_password\"\r\n \r\n with sync_playwright() as p:\r\n     browser = p.chromium.launch(headless=False)\r\n"
+                },
+                {
+                    "date": 1750233580178,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,8 +2,10 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n+\r\n+\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233587498,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,10 +2,10 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n+2025/06/\r\n \r\n-\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233595669,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n-2025/06/\r\n+2025/06/18現在\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233608220,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,10 +2,11 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n-2025/06/18現在\r\n \r\n+2025/06/18現在動作確認済み。\r\n+\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233614444,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,8 +2,9 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n+---\r\n \r\n 2025/06/18現在動作確認済み。\r\n \r\n ## 使い方\r\n"
+                },
+                {
+                    "date": 1750233623903,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,8 @@\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n----\r\n \r\n 2025/06/18現在動作確認済み。\r\n \r\n ## 使い方\r\n"
+                },
+                {
+                    "date": 1750233629373,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,8 +4,9 @@\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n \r\n \r\n 2025/06/18現在動作確認済み。\r\n+---\r\n \r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n"
+                },
+                {
+                    "date": 1750233645060,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,13 +1,13 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n+---\r\n \r\n-\r\n 2025/06/18現在動作確認済み。\r\n----\r\n \r\n+\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233650411,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,8 +3,9 @@\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n ---\r\n \r\n+\r\n 2025/06/18現在動作確認済み。\r\n \r\n \r\n ## 使い方\r\n"
+                },
+                {
+                    "date": 1750233657319,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,12 +3,11 @@\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n ---\r\n \r\n+※2025/06/18現在動作確認済み※\r\n \r\n-2025/06/18現在動作確認済み。\r\n \r\n-\r\n ## 使い方\r\n ```python\r\n from x_login import X_Login\r\n from playwright.sync_api import sync_playwright\r\n"
+                },
+                {
+                    "date": 1750233677984,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n+\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233696245,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-\r\n+htmlの使用が変わればもちろん使えなくなります。\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233702635,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-htmlの使用が変わればもちろん使えなくなります。\r\n+HTMLの使用が変わればもちろん使えなくなります。\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233712821,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-HTMLの使用が変わればもちろん使えなくなります。\r\n+XのHTMLの仕様が変わればもちろん使えなくなります。\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233723572,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-XのHTMLの仕様が変わればもちろん使えなくなります。\r\n+XのHTMLの仕様が変わればもちろん使えなくなります。※\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233733750,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-XのHTMLの仕様が変わればもちろん使えなくなります。※\r\n+XのHTMLの仕様が変わればもちろん使えなくなります。※更新予定はありません\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233740580,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-XのHTMLの仕様が変わればもちろん使えなくなります。※更新予定はありません\r\n+XのHTMLの仕様が変わればもちろん使えなくなります。※更新予定はありません自分\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750233747212,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n # X_Login\r\n \r\n Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減しますが、100%凍結しないとは限りません、使用は自己責任でお願いします。\r\n-XのHTMLの仕様が変わればもちろん使えなくなります。※\r\n+XのHTMLの仕様が変わればもちろん使えなくなります。\r\n ---\r\n \r\n ※2025/06/18現在動作確認済み※\r\n \r\n"
+                },
+                {
+                    "date": 1750234028933,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,10 @@\n # X_Login（開発終了）\r\n \r\n ### 類似プロジェクト↓\r\n \r\n+---\r\n+\r\n - Playwrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n - ログイン状態の維持が出来るのでアカウント凍結のリスクが大幅に軽減されます。\r\n - XのHTMLの仕様が変わればもちろん使えなくなります。\r\n ---\r\n"
+                }
+            ],
+            "date": 1749954013813,
+            "name": "Commit-0",
+            "content": "# X_Login\r\n\r\nPlaywrightを使ってX（旧Twitter）に自動ログインするPythonクラス（ライブラリ）です。\r\n\r\n## 特徴\r\n- Playwrightによるブラウザ自動操作\r\n- Cookie保存・再利用によるセッション管理\r\n- 人間らしいタイピング・遅延の再現\r\n- ログイン維持が出来るため、アカウント凍結のリスクが大幅に軽減\r\n\r\n## 必要要件\r\n- Python 3.8以上\r\n- [playwright](https://playwright.dev/python/) ライブラリ\r\n\r\n## インストール\r\n```bash\r\npip install playwright\r\nplaywright install\r\n```\r\n\r\n## 使い方\r\n```python\r\nfrom x_login import X_Login\r\nfrom playwright.sync_api import sync_playwright\r\n\r\nemail = \"your_email@example.com\"\r\nusername = \"your_username\" #ログイン時に求められた場合のみ\r\npassword = \"your_password\"\r\n\r\nwith sync_playwright() as p:\r\n    browser = p.chromium.launch(headless=False)\r\n    context = browser.new_context()\r\n    page = context.new_page()\r\n    x = X_Login(email, username, password)\r\n    x.login(context, page)\r\n    # ここでログイン後の操作が可能\r\n    browser.close()\r\n```\r\n\r\n## 注意事項\r\n- このクラスの利用は自己責任でお願いします。\r\n- 開発者は一切の責任も負いません。\r\n- X（旧Twitter）の仕様変更により動作しなくなる場合があります。\r\n\r\n## ライセンス\r\nMIT License\r\n"
+        }
+    ]
+}
